@@ -22,8 +22,8 @@ I love working with modern web technologies and continuously learning new tools 
 ---
 
 ## 📊 GitHub Stats  
-![Jahred's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahreduy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahreduy&layout=compact&theme=tokyonight)  
+![Jahred's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahjah07&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahjah07&layout=compact&theme=tokyonight)  
 
 ---
 
