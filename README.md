@@ -16,7 +16,7 @@ I love working with modern web technologies and continuously learning new tools 
 
 ## 📂 Featured Projects  
 - [**Dev Portfolio**](#) – My personal portfolio showcasing projects and skills  
-- [**E-commerce Wishlist & Cart System**](#) – Built with Next.js, handling product variants & Firebase auth  
+- [**E-commerce Website**](#) – Built with Next.js, handling product variants & Firebase auth  
 
 ---
 
