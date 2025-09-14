@@ -1,16 +1,44 @@
-## Hi there 👋
+# 💻 Hey, I'm Jahred Uy!  
 
-<!--
-**Jahjah07/Jahjah07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 A **Junior Web Developer** from the Philippines passionate about building clean, scalable, and user-friendly web applications.  
 
-Here are some ideas to get you started:
+I love working with modern web technologies and continuously learning new tools to improve my craft.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack  
+- **Frontend:** Next.js, React, Tailwind CSS, TypeScript, JavaScript  
+- **Backend:** Node.js, Express  
+- **Databases:** MySQL, Firebase  
+- **Tools & Others:** Git, REST APIs, PWA (Progressive Web Apps), Vercel, Netlify  
+
+---
+
+## 📂 Featured Projects  
+- [**Dev Portfolio**](#) – My personal portfolio showcasing projects and skills  
+- [**Rice Forecasting Study**](#) – Data imbalance analysis with ARIMA & SVM  
+- [**E-commerce Wishlist & Cart System**](#) – Built with Next.js, handling product variants & Firebase auth  
+
+---
+
+## 📊 GitHub Stats  
+![Jahred's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahreduy&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahreduy&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced Next.js features  
+- Machine Learning techniques for forecasting  
+- Improving clean architecture in web apps  
+
+---
+
+## 📫 Let’s Connect  
+- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio Website](#)  
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
