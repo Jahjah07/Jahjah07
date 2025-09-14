@@ -17,7 +17,7 @@ I love working with modern web technologies and continuously learning new tools 
 ## 📂 Featured Projects  
 - [**Dev Portfolio**](https://github.com/Jahjah07/WebPortfolio) – My personal portfolio showcasing projects and skills  
 - [**E-commerce Website**](#) – Built with Next.js, handling product variants & Firebase auth
-- [**Photobooth App**](#) – A fun web app to capture, style, and download photos with custom frames
+- [**Photobooth App**](https://github.com/Jahjah07/PhotoBooth) – A fun web app to capture, style, and download photos with custom frames
 
 ---
 
