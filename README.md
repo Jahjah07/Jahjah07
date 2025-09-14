@@ -28,8 +28,8 @@ I love working with modern web technologies and continuously learning new tools 
 
 ## 🌱 Currently Learning  
 - Advanced Next.js features  
-- Machine Learning techniques for forecasting  
-- Improving clean architecture in web apps  
+- Improving clean architecture in web apps
+- WordPress
 
 ---
 
