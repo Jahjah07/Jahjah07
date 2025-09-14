@@ -36,8 +36,8 @@ I love working with modern web technologies and continuously learning new tools 
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](#)  
-- 🌐 [Portfolio Website](#)  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 🌐 [Portfolio Website](https://jahreduy.netlify.app/)  
+- 📧 Email: [your-email@example.com](mailto:khikho107@gmail.com)  
 
 ---
 
