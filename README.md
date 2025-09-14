@@ -10,13 +10,12 @@ I love working with modern web technologies and continuously learning new tools 
 - **Frontend:** Next.js, React, Tailwind CSS, TypeScript, JavaScript  
 - **Backend:** Node.js, Express  
 - **Databases:** MySQL, Firebase  
-- **Tools & Others:** Git, REST APIs, PWA (Progressive Web Apps), Vercel, Netlify  
+- **Tools & Others:** Git, REST APIs, Vercel, Netlify  
 
 ---
 
 ## 📂 Featured Projects  
 - [**Dev Portfolio**](#) – My personal portfolio showcasing projects and skills  
-- [**Rice Forecasting Study**](#) – Data imbalance analysis with ARIMA & SVM  
 - [**E-commerce Wishlist & Cart System**](#) – Built with Next.js, handling product variants & Firebase auth  
 
 ---
@@ -37,7 +36,7 @@ I love working with modern web technologies and continuously learning new tools 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](#)  
 - 🌐 [Portfolio Website](https://jahreduy.netlify.app/)  
-- 📧 Email: [your-email@example.com](mailto:khikho107@gmail.com)  
+- 📧 Email: [khikho107@gmail.com](mailto:khikho107@gmail.com)  
 
 ---
 
